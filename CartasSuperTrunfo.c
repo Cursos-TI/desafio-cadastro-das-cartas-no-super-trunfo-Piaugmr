@@ -73,13 +73,11 @@ int main(){
     printf("Digite um ponto turistico: ");
     scanf(" %s", &ptsturisticos02);
 
-
-
     
 
     
-);
-    //printf("Cartas cadastradas\n\n"
+
+    //printf("Cartas cadastradas\n\n");
 
     //printf()
 
